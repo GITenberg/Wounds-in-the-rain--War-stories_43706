@@ -1,0 +1,34 @@
+_repo: Wounds-in-the-rain--War-stories_43706
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43706-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Crane, Stephen
+    alias: Smith, Johnston
+    birthdate: 1871
+    deathdate: 1900
+    gutenberg_agent_id: '55'
+    url: http://www.gutenberg.org/2009/agents/55
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Crane
+description: ''
+gutenberg_issued: '2013-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43706'
+  lccn: '00005012'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+tableOfContents: The price of the harness -- The lone charge of William B. Perkins
+  -- The clan of No-name -- God rest ye, merry gentlemen -- The revenge of the Adolphus
+  -- The sergeant's private madhouse -- Virtue in war -- Marines signalling under
+  fire at Guantanamo -- This majestic lie -- War memories -- The second generation.
+title: 'Wounds in the rain: War stories'
+url: http://www.gutenberg.org/ebooks/43706
